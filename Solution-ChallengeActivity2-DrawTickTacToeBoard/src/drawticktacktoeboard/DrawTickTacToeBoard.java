@@ -1,4 +1,5 @@
-/* Challenge Activity 2
+/* AANGEPAST DOOR HERMAN
+ * Challenge Activity 2
  * Write a java program which uses System.out to draw this tic-tac-toe board:
  * 
  *     |   |
